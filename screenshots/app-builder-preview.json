@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VELA — Nắng phố.",
+      "hasCanvas": false,
+      "bodyTextLen": 2537,
+      "bodyTextHash": "aa0b9ae4f8b30d8df3471f4a60a75b343fcdb7dd18aed5d9699e321bfd847cee",
+      "bodyTextPrefix": "Skip tới gọng Hộp da đi kèm · Freeship từ 1.500.000 ₫ · VELA10 g",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VELA — Nắng phố.",
+      "hasCanvas": false,
+      "bodyTextLen": 2522,
+      "bodyTextHash": "2e89d28bdaaf2107e30159378d299ab807868552a3b19414449d6a8abccbc0da",
+      "bodyTextPrefix": "Skip tới gọng Hộp da đi kèm · Freeship từ 1.500.000 ₫ · VELA10 g",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

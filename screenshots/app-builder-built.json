@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VELA — Hard light, handled.",
+      "hasCanvas": false,
+      "bodyTextLen": 2897,
+      "bodyTextHash": "0f9ae2c552aa93d872d420fb306dc934ae6a07f863ba6a94e0aae2e0169919f3",
+      "bodyTextPrefix": "Skip to the frames Leather case included · Free shipping over $1",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VELA — Hard light, handled.",
+      "hasCanvas": false,
+      "bodyTextLen": 2875,
+      "bodyTextHash": "6b0390ee404e3aaf4105d21fdd9fce73278aa9be6f77f3feb0fbdb25224c66be",
+      "bodyTextPrefix": "Skip to the frames Leather case included · Free shipping over $1",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
